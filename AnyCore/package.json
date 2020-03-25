@@ -1,0 +1,25 @@
+{
+  "name": "anycore",
+  "version": "1.0.0",
+  "description": "npm modules for automation",
+  "main": "conf.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "chai-as-promised": "^6.0.0",
+    "chai": "^3.5.0",
+    "jasmine-reporters": "^2.2.0",
+    "promise": "^7.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://base.someserver.com/username/anycore.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
